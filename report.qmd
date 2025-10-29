@@ -8,12 +8,13 @@ format: typst
 ## **Part 0: libraries**
 
 ```{r}
-
+library(tidyverse)
+library(sf)
 ```
 
 ## **Part 1:** **Defining Research Question**
 
-Chosen Question:
+Chosen Question:What percentage of each U.S. state’s total energy in 2023 came from renewable sources?
 
 ## **Part 2: Data Preparation and Cleaning**
 
